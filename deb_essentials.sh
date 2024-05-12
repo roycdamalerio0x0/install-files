@@ -8,6 +8,7 @@ sudo apt install vim tmux pulsuaudio alsa-utils pavucontrol firefox code git dco
 mkdir ~/.fonts
 cd ~/.fonts
 curl -LO https://github.com/roycdamalerio0x0/fonts/archive/refs/heads/main.zip
+unzip main.zip
 fc-cache -vf
 
 
